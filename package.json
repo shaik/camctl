@@ -1,0 +1,23 @@
+{
+  "name": "camctl",
+  "version": "1.0.0",
+  "description": "Camera direction remote control",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaik/camctl.git"
+  },
+  "author": "ShaiK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaik/camctl/issues"
+  },
+  "homepage": "https://github.com/shaik/camctl#readme",
+  "devDependencies": {
+    "node-fetch": "^1.7.3",
+    "serialport": "^6.0.4"
+  }
+}
